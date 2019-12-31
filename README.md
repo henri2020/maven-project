@@ -1,2 +1,2 @@
 # maven-project
-mvn archetype:generate -Dgroupld=com.mycompany.app -Dartifactld=my-app -DarchetypeArtifactld=maven-archetype-quickstart -DinteractiveMode=false
+mvn archetype:generate -Dgroupid=com.mycompany.app -Dartifactid=my-app -DarchetypeArtifactid=maven-archetype-quickstart -DinteractiveMode=false
